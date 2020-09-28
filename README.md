@@ -13,3 +13,5 @@
 4. 🎉 Merged PR [#1](https://github.com/lill74/EduKit/pull/1) in [lill74/EduKit](https://github.com/lill74/EduKit)
 5. 💪 Opened PR [#1](https://github.com/lill74/EduKit/pull/1) in [lill74/EduKit](https://github.com/lill74/EduKit)
 <!--END_SECTION:activity-->
+
+[![lill74's github stats](https://github-readme-stats.vercel.app/api?username=lill74)](https://github.com/anuraghazra/github-readme-stats)
