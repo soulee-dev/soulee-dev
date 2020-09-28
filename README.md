@@ -14,11 +14,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/phg98/hacktoberfestkorea/issues/5) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-2. 💪 Opened PR [#344](https://github.com/frankie567/fastapi-users/pull/344) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
-3. 🗣 Commented on [#343](https://github.com/frankie567/fastapi-users/issues/343) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
-4. ❗️ Opened issue [#343](https://github.com/frankie567/fastapi-users/issues/343) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
-5. 🎉 Merged PR [#1](https://github.com/lill74/EduKit/pull/1) in [lill74/EduKit](https://github.com/lill74/EduKit)
+1. 🗣 Commented on [#5](https://github.com/phg98/hacktoberfestkorea/issues/5) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+2. ❗️ Opened issue [#5](https://github.com/phg98/hacktoberfestkorea/issues/5) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+3. 💪 Opened PR [#344](https://github.com/frankie567/fastapi-users/pull/344) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
+4. 🗣 Commented on [#343](https://github.com/frankie567/fastapi-users/issues/343) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
+5. ❗️ Opened issue [#343](https://github.com/frankie567/fastapi-users/issues/343) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
 <!--END_SECTION:activity-->
 
 </details>
