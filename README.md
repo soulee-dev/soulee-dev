@@ -15,11 +15,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/lill74/hacktoberfestkorea/pull/4) in [lill74/hacktoberfestkorea](https://github.com/lill74/hacktoberfestkorea)
-2. 💪 Opened PR [#4](https://github.com/lill74/hacktoberfestkorea/pull/4) in [lill74/hacktoberfestkorea](https://github.com/lill74/hacktoberfestkorea)
-3. 🎉 Merged PR [#3](https://github.com/lill74/hacktoberfestkorea/pull/3) in [lill74/hacktoberfestkorea](https://github.com/lill74/hacktoberfestkorea)
-4. 💪 Opened PR [#3](https://github.com/lill74/hacktoberfestkorea/pull/3) in [lill74/hacktoberfestkorea](https://github.com/lill74/hacktoberfestkorea)
-5. 🗣 Commented on [#5](https://github.com/phg98/hacktoberfestkorea/issues/5) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+1. 🗣 Commented on [#5](https://github.com/phg98/hacktoberfestkorea/issues/5) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+2. 💪 Opened PR [#6](https://github.com/phg98/hacktoberfestkorea/pull/6) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+3. 🎉 Merged PR [#4](https://github.com/lill74/hacktoberfestkorea/pull/4) in [lill74/hacktoberfestkorea](https://github.com/lill74/hacktoberfestkorea)
+4. 💪 Opened PR [#4](https://github.com/lill74/hacktoberfestkorea/pull/4) in [lill74/hacktoberfestkorea](https://github.com/lill74/hacktoberfestkorea)
+5. 🎉 Merged PR [#3](https://github.com/lill74/hacktoberfestkorea/pull/3) in [lill74/hacktoberfestkorea](https://github.com/lill74/hacktoberfestkorea)
 <!--END_SECTION:activity-->
 
 </details>
