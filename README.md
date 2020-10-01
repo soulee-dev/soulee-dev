@@ -19,11 +19,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/phg98/hacktoberfestkorea/issues/17) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-2. 🗣 Commented on [#8](https://github.com/phg98/hacktoberfestkorea/issues/8) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-3. 💪 Opened PR [#17](https://github.com/phg98/hacktoberfestkorea/pull/17) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-4. ❗️ Opened issue [#16](https://github.com/phg98/hacktoberfestkorea/issues/16) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-5. 🗣 Commented on [#344](https://github.com/frankie567/fastapi-users/issues/344) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
+1. 🗣 Commented on [#21](https://github.com/phg98/hacktoberfestkorea/issues/21) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+2. 🗣 Commented on [#17](https://github.com/phg98/hacktoberfestkorea/issues/17) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+3. 🗣 Commented on [#8](https://github.com/phg98/hacktoberfestkorea/issues/8) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+4. 💪 Opened PR [#17](https://github.com/phg98/hacktoberfestkorea/pull/17) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+5. ❗️ Opened issue [#16](https://github.com/phg98/hacktoberfestkorea/issues/16) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
 <!--END_SECTION:activity-->
 
 </details>
