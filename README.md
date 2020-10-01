@@ -20,10 +20,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Siddhant-Jha/IP_Tracker/issues/1) in [Siddhant-Jha/IP_Tracker](https://github.com/Siddhant-Jha/IP_Tracker)
-2. 🗣 Commented on [#164](https://github.com/rahuldkjain/github-profile-readme-generator/issues/164) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-3. 🗣 Commented on [#1](https://github.com/Siddhant-Jha/IP_Tracker/issues/1) in [Siddhant-Jha/IP_Tracker](https://github.com/Siddhant-Jha/IP_Tracker)
-4. 🗣 Commented on [#17](https://github.com/phg98/hacktoberfestkorea/issues/17) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-5. 🗣 Commented on [#21](https://github.com/phg98/hacktoberfestkorea/issues/21) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+2. 💪 Opened PR [#5](https://github.com/Siddhant-Jha/IP_Tracker/pull/5) in [Siddhant-Jha/IP_Tracker](https://github.com/Siddhant-Jha/IP_Tracker)
+3. ❌ Closed PR [#4](https://github.com/Siddhant-Jha/IP_Tracker/pull/4) in [Siddhant-Jha/IP_Tracker](https://github.com/Siddhant-Jha/IP_Tracker)
+4. 💪 Opened PR [#4](https://github.com/Siddhant-Jha/IP_Tracker/pull/4) in [Siddhant-Jha/IP_Tracker](https://github.com/Siddhant-Jha/IP_Tracker)
+5. 🗣 Commented on [#1](https://github.com/Siddhant-Jha/IP_Tracker/issues/1) in [Siddhant-Jha/IP_Tracker](https://github.com/Siddhant-Jha/IP_Tracker)
 <!--END_SECTION:activity-->
 
 </details>
