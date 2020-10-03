@@ -19,11 +19,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/phg98/hacktoberfestkorea/issues/16) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-2. 🗣 Commented on [#190](https://github.com/rahuldkjain/github-profile-readme-generator/issues/190) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+1. 💪 Opened PR [#31](https://github.com/phg98/hacktoberfestkorea/pull/31) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+2. 🗣 Commented on [#16](https://github.com/phg98/hacktoberfestkorea/issues/16) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
 3. 🗣 Commented on [#190](https://github.com/rahuldkjain/github-profile-readme-generator/issues/190) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-4. 🗣 Commented on [#164](https://github.com/rahuldkjain/github-profile-readme-generator/issues/164) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-5. 💪 Opened PR [#190](https://github.com/rahuldkjain/github-profile-readme-generator/pull/190) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+4. 🗣 Commented on [#190](https://github.com/rahuldkjain/github-profile-readme-generator/issues/190) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+5. 🗣 Commented on [#164](https://github.com/rahuldkjain/github-profile-readme-generator/issues/164) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 </details>
