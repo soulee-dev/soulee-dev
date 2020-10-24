@@ -19,11 +19,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/phg98/hacktoberfestkorea/pull/56) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-2. 🗣 Commented on [#16](https://github.com/phg98/hacktoberfestkorea/issues/16) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-3. 🗣 Commented on [#33](https://github.com/phg98/hacktoberfestkorea/issues/33) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-4. 💪 Opened PR [#33](https://github.com/phg98/hacktoberfestkorea/pull/33) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
-5. 🗣 Commented on [#1](https://github.com/Siddhant-Jha/IP_Tracker/issues/1) in [Siddhant-Jha/IP_Tracker](https://github.com/Siddhant-Jha/IP_Tracker)
+1. 💪 Opened PR [#49](https://github.com/phg98/hands-on/pull/49) in [phg98/hands-on](https://github.com/phg98/hands-on)
+2. 💪 Opened PR [#24](https://github.com/phg98/hands-on/pull/24) in [phg98/hands-on](https://github.com/phg98/hands-on)
+3. 💪 Opened PR [#16](https://github.com/phg98/hands-on/pull/16) in [phg98/hands-on](https://github.com/phg98/hands-on)
+4. 💪 Opened PR [#56](https://github.com/phg98/hacktoberfestkorea/pull/56) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
+5. 🗣 Commented on [#16](https://github.com/phg98/hacktoberfestkorea/issues/16) in [phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)
 <!--END_SECTION:activity-->
 
 </details>
