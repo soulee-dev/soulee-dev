@@ -19,9 +19,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/congnd/TIL/issues/1) in [congnd/TIL](https://github.com/congnd/TIL)
-2. ❗️ Opened issue [#1](https://github.com/congnd/TIL/issues/1) in [congnd/TIL](https://github.com/congnd/TIL)
-3. 🗣 Commented on [#94](https://github.com/gao-sun/eul/issues/94) in [gao-sun/eul](https://github.com/gao-sun/eul)
+1. 🗣 Commented on [#1](https://github.com/lill74/blog/issues/1) in [lill74/blog](https://github.com/lill74/blog)
+2. 🗣 Commented on [#1](https://github.com/congnd/TIL/issues/1) in [congnd/TIL](https://github.com/congnd/TIL)
+3. ❗️ Opened issue [#1](https://github.com/congnd/TIL/issues/1) in [congnd/TIL](https://github.com/congnd/TIL)
 4. 💪 Opened PR [#89](https://github.com/gao-sun/eul/pull/89) in [gao-sun/eul](https://github.com/gao-sun/eul)
 5. 💪 Opened PR [#49](https://github.com/phg98/hands-on/pull/49) in [phg98/hands-on](https://github.com/phg98/hands-on)
 <!--END_SECTION:activity-->
