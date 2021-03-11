@@ -19,11 +19,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/lill74/yestercode/issues/1) in [lill74/yestercode](https://github.com/lill74/yestercode)
-2. 🗣 Commented on [#1](https://github.com/lill74/blog/issues/1) in [lill74/blog](https://github.com/lill74/blog)
+1. ❗️ Closed issue [#1](https://github.com/lill74/yestercode/issues/1) in [lill74/yestercode](https://github.com/lill74/yestercode)
+2. ❗️ Opened issue [#1](https://github.com/lill74/yestercode/issues/1) in [lill74/yestercode](https://github.com/lill74/yestercode)
 3. 🗣 Commented on [#1](https://github.com/lill74/blog/issues/1) in [lill74/blog](https://github.com/lill74/blog)
-4. 🗣 Commented on [#1](https://github.com/congnd/TIL/issues/1) in [congnd/TIL](https://github.com/congnd/TIL)
-5. ❗️ Opened issue [#1](https://github.com/congnd/TIL/issues/1) in [congnd/TIL](https://github.com/congnd/TIL)
+4. 🗣 Commented on [#1](https://github.com/lill74/blog/issues/1) in [lill74/blog](https://github.com/lill74/blog)
+5. 🗣 Commented on [#1](https://github.com/congnd/TIL/issues/1) in [congnd/TIL](https://github.com/congnd/TIL)
 <!--END_SECTION:activity-->
 
 </details>
