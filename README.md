@@ -19,11 +19,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/lill74/yestercode/issues/3) in [lill74/yestercode](https://github.com/lill74/yestercode)
-2. ❗️ Opened issue [#2](https://github.com/lill74/yestercode/issues/2) in [lill74/yestercode](https://github.com/lill74/yestercode)
-3. ❗️ Closed issue [#1](https://github.com/lill74/yestercode/issues/1) in [lill74/yestercode](https://github.com/lill74/yestercode)
-4. ❗️ Opened issue [#1](https://github.com/lill74/yestercode/issues/1) in [lill74/yestercode](https://github.com/lill74/yestercode)
-5. 🗣 Commented on [#1](https://github.com/lill74/blog/issues/1) in [lill74/blog](https://github.com/lill74/blog)
+1. ❗️ Closed issue [#3](https://github.com/lill74/yestercode/issues/3) in [lill74/yestercode](https://github.com/lill74/yestercode)
+2. ❗️ Opened issue [#3](https://github.com/lill74/yestercode/issues/3) in [lill74/yestercode](https://github.com/lill74/yestercode)
+3. ❗️ Opened issue [#2](https://github.com/lill74/yestercode/issues/2) in [lill74/yestercode](https://github.com/lill74/yestercode)
+4. ❗️ Closed issue [#1](https://github.com/lill74/yestercode/issues/1) in [lill74/yestercode](https://github.com/lill74/yestercode)
+5. ❗️ Opened issue [#1](https://github.com/lill74/yestercode/issues/1) in [lill74/yestercode](https://github.com/lill74/yestercode)
 <!--END_SECTION:activity-->
 
 </details>
