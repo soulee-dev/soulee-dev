@@ -19,11 +19,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/lill74/blog/issues/3) in [lill74/blog](https://github.com/lill74/blog)
-2. 🗣 Commented on [#2](https://github.com/lill74/blog/issues/2) in [lill74/blog](https://github.com/lill74/blog)
-3. ❗️ Opened issue [#2](https://github.com/lill74/blog/issues/2) in [lill74/blog](https://github.com/lill74/blog)
-4. 🎉 Merged PR [#2](https://github.com/lill74/Whats-Pplaying/pull/2) in [lill74/Whats-Pplaying](https://github.com/lill74/Whats-Pplaying)
-5. 🎉 Merged PR [#1](https://github.com/lill74/Whats-Pplaying/pull/1) in [lill74/Whats-Pplaying](https://github.com/lill74/Whats-Pplaying)
+1. ❗️ Opened issue [#1560](https://github.com/uBlockOrigin/uBlock-issues/issues/1560) in [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues)
+2. ❗️ Opened issue [#3](https://github.com/lill74/blog/issues/3) in [lill74/blog](https://github.com/lill74/blog)
+3. 🗣 Commented on [#2](https://github.com/lill74/blog/issues/2) in [lill74/blog](https://github.com/lill74/blog)
+4. ❗️ Opened issue [#2](https://github.com/lill74/blog/issues/2) in [lill74/blog](https://github.com/lill74/blog)
+5. 🎉 Merged PR [#2](https://github.com/lill74/Whats-Pplaying/pull/2) in [lill74/Whats-Pplaying](https://github.com/lill74/Whats-Pplaying)
 <!--END_SECTION:activity-->
 
 </details>
