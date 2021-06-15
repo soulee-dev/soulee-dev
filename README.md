@@ -19,11 +19,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/lill74/Whats-Pplaying/pull/4) in [lill74/Whats-Pplaying](https://github.com/lill74/Whats-Pplaying)
-2. 🗣 Commented on [#640](https://github.com/frankie567/fastapi-users/issues/640) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
-3. 💪 Opened PR [#640](https://github.com/frankie567/fastapi-users/pull/640) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
-4. ❗️ Opened issue [#1560](https://github.com/uBlockOrigin/uBlock-issues/issues/1560) in [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues)
-5. ❗️ Opened issue [#3](https://github.com/lill74/blog/issues/3) in [lill74/blog](https://github.com/lill74/blog)
+1. 🎉 Merged PR [#3](https://github.com/lill74/Whats-Pplaying/pull/3) in [lill74/Whats-Pplaying](https://github.com/lill74/Whats-Pplaying)
+2. 🎉 Merged PR [#4](https://github.com/lill74/Whats-Pplaying/pull/4) in [lill74/Whats-Pplaying](https://github.com/lill74/Whats-Pplaying)
+3. 🗣 Commented on [#640](https://github.com/frankie567/fastapi-users/issues/640) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
+4. 💪 Opened PR [#640](https://github.com/frankie567/fastapi-users/pull/640) in [frankie567/fastapi-users](https://github.com/frankie567/fastapi-users)
+5. ❗️ Opened issue [#1560](https://github.com/uBlockOrigin/uBlock-issues/issues/1560) in [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues)
 <!--END_SECTION:activity-->
 
 </details>
