@@ -16,3 +16,5 @@
 [Add Korean Translation](https://github.com/gao-sun/eul/pull/89) in gao-sun/eul  
 [Update sqlalchemy.py](https://github.com/frankie567/fastapi-users/pull/344) in frankie567/fastapi-users  
 [Material for MkDocs 추가](https://github.com/phg98/hacktoberfestkorea/pull/6) in phg98/hacktoberfestkorea  
+
+## [My Blog](https://soulee.dev)
