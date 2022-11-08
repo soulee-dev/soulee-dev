@@ -20,3 +20,7 @@
 ## [My Blog](https://soulee.dev)
 
 [![a0103932](http://mazassumnida.wtf/api/generate_badge?boj=a0103932)](https://solved.ac/a0103932)
+
+## Logs
+교육부 정보보안 영재원 4년 재학 (중등 기초 - 고등 심화)  
+42서울 8기 1차 Cadet
