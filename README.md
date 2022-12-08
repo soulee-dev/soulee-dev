@@ -40,6 +40,7 @@
 [![a0103932](http://mazassumnida.wtf/api/generate_badge?boj=a0103932)](https://solved.ac/a0103932)
 
 #### 프리랜서
+대표적 사례  
 Case 1.  
 스크래핑을 통해 데이터를 불러오고, 이를 다시 자동으로 전달하는 RPA 시스템구축하고, 관리할수 있는 Dashboard 구축.  
 React, FastAPI
