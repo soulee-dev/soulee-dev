@@ -1,8 +1,8 @@
 ### 안녕하세요! 👋
-세상을 바꿀수 있는 코드를 작성하기 위해 항상 고민합니다
+**세상을 바꿀수 있는 코드를 작성하기 위해 항상 고민합니다**
 
-초등학교 3학년때 시직한 Visual Basic을 계기로, 현재는 백엔드 개발자를 꿈꾸며 달려오고 있습니다.
-
+초등학교 3학년때 시작한 Visual Basic을 계기로, 현재는 백엔드 개발자를 꿈꾸며 달려오고 있습니다.  
+현재는 정보보안학과에 재학중이며, 오픈소스 기여에도 관심이 있습니다.  
 관심분야: Backend, Python (FastAPI, Django), Network, Security
 
 관련분야 회사 외 경력
@@ -12,12 +12,16 @@
 자격증
 - 네트워크 관리사 2급
 
+수상
+- 한국정보올림피아드 도대회 진출
+- 전국 고등학생 보안경진대회 우수상
+
 ---
 
-## Most Starred Repo
+## 가장 많은 스타를 받은 레포지토리
 [PyKIPass](https://github.com/alus20x/PyKIPass) (30⭐)
 
-## Recent PRs
+## 오픈소스 기여
 [Add thefunky-monkey.com to list](https://github.com/RyuaNerin/only-stackoverflow/pull/55) in RyuaNerin/only-stackoverflow  
 [Update apkdiff.py](https://github.com/daniellockyer/apkdiff/pull/7) in daniellockyer/apkdiff  
 [Fix typo](https://github.com/notatallshaw/fall_guys_ping_estimate/pull/50) in notatallshaw/fall_guys_ping_estimate  
@@ -28,10 +32,6 @@
 [Update sqlalchemy.py](https://github.com/frankie567/fastapi-users/pull/344) in frankie567/fastapi-users  
 [Material for MkDocs 추가](https://github.com/phg98/hacktoberfestkorea/pull/6) in phg98/hacktoberfestkorea  
 
-## [My Blog](https://soulee.dev)
+## [블로그](https://soulee.dev)
 
 [![a0103932](http://mazassumnida.wtf/api/generate_badge?boj=a0103932)](https://solved.ac/a0103932)
-
-## Logs
-교육부 정보보안 영재원 4년 재학 (중등 기초 - 고등 심화)  
-42서울 8기 1차 Cadet
