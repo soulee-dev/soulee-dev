@@ -38,3 +38,12 @@
 ## [블로그](https://soulee.dev)
 
 [![a0103932](http://mazassumnida.wtf/api/generate_badge?boj=a0103932)](https://solved.ac/a0103932)
+
+#### 프리랜서
+Case 1.  
+스크래핑을 통해 데이터를 불러오고, 이를 다시 자동으로 전달하는 RPA 시스템구축하고, 관리할수 있는 Dashboard 구축.  
+React, FastAPI
+
+Case 2.  
+스크래핑을 통해 불러온 데이터를 처리하여, 관리자가 한눈에 볼수 있게 Dashboard 구축.  
+NextJS, Flask
