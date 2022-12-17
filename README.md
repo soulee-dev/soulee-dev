@@ -15,6 +15,7 @@
 
 자격증
 - 네트워크 관리사 2급
+- AWS Certified Cloud Practitioner
 
 수상
 - 한국정보올림피아드 도대회 진출
