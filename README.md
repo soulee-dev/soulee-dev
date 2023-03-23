@@ -26,6 +26,10 @@
 - 한국정보올림피아드 도대회 진출
 - 전국 고등학생 보안경진대회 우수상
 
+해커톤
+- [CanISit?](https://github.com/HiHoi/CanISit)(42Seoul Coalition Hackathon)
+  - 머신러닝, YOLO 모델을 활용한 착좌 감지 시스템
+
 ---
 
 ## 가장 많은 스타를 받은 레포지토리
