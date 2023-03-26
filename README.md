@@ -27,7 +27,7 @@
 - 전국 고등학생 보안경진대회 우수상
 
 해커톤
-- [CanISit?](https://github.com/HiHoi/CanISit)(42Seoul Coalition Hackathon)
+- [CanISit?](https://github.com/HiHoi/CanISit)(42Seoul Coalition Hackathon 2등)
   - 머신러닝, YOLO 모델을 활용한 착좌 감지 시스템
 
 ---
