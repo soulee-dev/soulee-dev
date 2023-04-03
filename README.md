@@ -17,9 +17,9 @@
 - 프리랜서
 
 자격증
-- 네트워크 관리사 2급
-- AWS Certified Cloud Practitioner
-- 리눅스 마스터 2급 1차
+- 네트워크 관리사 2급 (2022.10)
+- AWS Certified Cloud Practitioner (2022.12)
+- 리눅스 마스터 2급 (2022.03)
 - 정보처리 기능사 1차
 
 수상
