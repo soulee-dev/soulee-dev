@@ -28,6 +28,9 @@
 - SW중심 대학 사업단주최 전국 고등학교 보안 경진대회 우수상 (2019)
 - 한국정보올림피아드 도대회 진출 (2021)
 
+취약점 제보
+- KVE-2023-5010
+
 해커톤
 - [CanISit?](https://github.com/HiHoi/CanISit)(42Seoul Coalition Hackathon 2등)
   - 머신러닝, YOLO 모델을 활용한 착좌 감지 시스템
