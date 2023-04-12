@@ -19,7 +19,7 @@
 자격증
 - 네트워크 관리사 2급 (2022.10)
 - AWS Certified Cloud Practitioner (2022.12)
-- 리눅스 마스터 2급 (2022.03)
+- 리눅스 마스터 2급 (2023.03)
 - 정보처리 기능사 1차
 
 수상
@@ -46,6 +46,7 @@
 
 ## 가장 많은 스타를 받은 레포지토리
 [PyKIPass](https://github.com/alus20x/PyKIPass) (30⭐)
+[fuckvkeypad](https://github.com/soulee-dev/fuckvkeypad) (20⭐)
 
 ## 오픈소스 기여
 [Add thefunky-monkey.com to list](https://github.com/RyuaNerin/only-stackoverflow/pull/55) in RyuaNerin/only-stackoverflow  
