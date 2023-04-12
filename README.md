@@ -6,7 +6,7 @@
 처음 시작한 Visual Basic을 계기로, 현재는 백엔드 개발자를 꿈꾸며 달려오고 있습니다.  
 현재는 정보보안학과에 재학중이며, 오픈소스 기여에도 관심이 있습니다.  
 
-관심분야: Backend, Python (FastAPI, Django), Network, Security, RPA, Web Automation, Docker, AWS
+관심분야: Backend, Python (FastAPI, Django), Network, Security, RPA, Web Automation, Docker, AWS, IoT
 
 경력
 - 교육부 정보보호영재교육원 (2017-2020)
