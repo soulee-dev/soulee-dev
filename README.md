@@ -29,7 +29,7 @@
 - 한국정보올림피아드 도대회 진출 (2021)
 
 취약점 제보
-- KVE-2023-5010
+- KVE-2023-5010 (2023)
 
 해커톤
 - [CanISit?](https://github.com/HiHoi/CanISit)(42Seoul Coalition Hackathon 2등)
