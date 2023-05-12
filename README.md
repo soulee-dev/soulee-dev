@@ -45,8 +45,8 @@
 ---
 
 ## 가장 많은 스타를 받은 레포지토리
-[PyKIPass](https://github.com/alus20x/PyKIPass) (30⭐)
-[fuckvkeypad](https://github.com/soulee-dev/fuckvkeypad) (20⭐)
+- [PyKIPass](https://github.com/alus20x/PyKIPass) (⭐30)
+- [fuckvkeypad](https://github.com/soulee-dev/fuckvkeypad) (⭐51)
 
 ## 오픈소스 기여
 [Add thefunky-monkey.com to list](https://github.com/RyuaNerin/only-stackoverflow/pull/55) in RyuaNerin/only-stackoverflow  
