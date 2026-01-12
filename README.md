@@ -13,3 +13,4 @@
 - [KDOne](https://github.com/soulee-dev/KDOne)
 
 - Republic of Korea Navy (2023~2025) — *Software Engineer (SW 개발병)*
+- Hecto Financial (2025~) - *Software Engineer (B2B 플랫폼 개발)*
