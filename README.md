@@ -14,3 +14,5 @@
 
 - Republic of Korea Navy (2023~2025) — *Software Engineer (SW 개발병)*
 - Hecto Financial (2025~) - *Software Engineer (B2B 플랫폼 개발)*
+
+[![Blood Donation Record](https://raw.githubusercontent.com/soulee-dev/blood-record/main/output/blood-card.svg)](https://github.com/soulee-dev/blood-record)
