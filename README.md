@@ -14,10 +14,12 @@
 
 I'm a software engineer building B2B platforms at Hecto Financial.
 I enjoy contributing to open source — lately I've been working on `node:ffi` in [Node.js](https://github.com/nodejs/node) — and I write about what I learn on [my blog](https://soulee.dev).
+More about me: [soulee.dev/about](https://soulee.dev/about)
 
-헥토파이낸셜에서 B2B 플랫폼을 개발하고 있는 소프트웨어 엔지니어입니다.
+안녕하세요, 이소울입니다. 헥토파이낸셜에서 B2B 플랫폼을 개발하고 있는 소프트웨어 엔지니어입니다.
 오픈소스에 기여하는 것을 좋아하며, 최근에는 [Node.js](https://github.com/nodejs/node)의 `node:ffi` 모듈에 기여하고 있습니다.
 공부하고 경험한 내용은 [블로그](https://soulee.dev)에 기록하고 있습니다.
+더 자세한 소개는 [soulee.dev/about](https://soulee.dev/about)에 있습니다.
 
 ## Latest Blog Posts
 
@@ -38,7 +40,7 @@ I enjoy contributing to open source — lately I've been working on `node:ffi` i
 | [**nodejs/node**](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3Asoulee-dev) | `node:ffi` argument validation, lazy string allocation, docs ([#65342](https://github.com/nodejs/node/pull/65342), [#65500](https://github.com/nodejs/node/pull/65500), [#65842](https://github.com/nodejs/node/pull/65842), [#66178](https://github.com/nodejs/node/pull/66178), [#66086](https://github.com/nodejs/node/pull/66086) …) |
 | [**keycloak/keycloak**](https://github.com/keycloak/keycloak/pull/51373) | Reset the page offset when the search term changes |
 | [**fastapi/fastapi**](https://github.com/fastapi/fastapi/pull/11441) · [**Kludex/starlette**](https://github.com/Kludex/starlette/pull/2572) | `TrustedHostMiddleware` / `SessionMiddleware` documentation |
-| [**python-mysql-replication**](https://github.com/julien-duponchelle/python-mysql-replication/pulls?q=is%3Apr+author%3Asoulee-dev) | UTC timestamp fix, `Handler_read_rnd` optimization, Ruff/Black/pre-commit setup, Python 2 cleanup |
+| [**python-mysql-replication**](https://github.com/julien-duponchelle/python-mysql-replication/pulls?q=is%3Apr+author%3Asoulee-dev) | MySQL binlog parser used for CDC at AWS, Kakao, etc. UTC timestamp fix, query optimization, tooling cleanup |
 | [**shuding/nextra**](https://github.com/shuding/nextra/pull/4783) · [**orioncactus/pretendard**](https://github.com/orioncactus/pretendard/pull/202) | Docs and showcase fixes |
 | [**hacktoberfestkorea**](https://github.com/hacktoberfestkorea/hacktoberfestkorea) | Maintaining the Hacktoberfest Korea site since 2020 |
 
@@ -72,6 +74,18 @@ I enjoy contributing to open source — lately I've been working on `node:ffi` i
 - Introduced Git-based team collaboration and development standards
 
 [Full experience on LinkedIn →](https://www.linkedin.com/in/soulee-dev/)
+
+## Publications & Awards
+
+- **Book** · 『LLM 활용과 국방』 (co-author) · CommunicationBooks, 2026
+- **Paper** · 국방 분야에서의 LLM 활용 문제점과 해결 전략 (first author) · 국방과보안, KCI, 2024
+- **Award** · NIPA President's Award, for contributions to python-mysql-replication (2023)
+- **Award** · Army Commendation, for LLM research advancing military science and technology (2024)
+
+## Certifications
+
+- **AWS** · Solutions Architect – Professional · Solutions Architect – Associate · Cloud Practitioner
+- **Korea** · 정보처리기사 · 정보보안산업기사
 
 ## Side Projects
 
